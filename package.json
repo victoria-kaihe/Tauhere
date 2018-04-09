@@ -1,0 +1,11 @@
+{
+  "name": "tauhere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victoria-kaihe/Tauhere.git",
+  "author": "Victoria Kaihe <tori.ellen.g.k@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.5"
+  }
+}

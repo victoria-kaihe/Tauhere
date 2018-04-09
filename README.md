@@ -1,3 +1,5 @@
+#Tauhere
+
 Tauhere
 1. (verb) (-a) to tie, bind, lash
 2. (noun) link, connection, linkage, tie.

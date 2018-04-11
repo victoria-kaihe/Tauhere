@@ -1,10 +1,10 @@
-#Tauhere
+#Tauherea
 
 Tauhere
 1. (verb) (-a) to tie, bind, lash
 2. (noun) link, connection, linkage, tie.
 
-Tauhere is a community-building tool that connects Maori with Maori based on shared history.
+Tauherea is a community-building tool that connects Maori with Maori based on shared history.
 
 When attending a hui, all attendees give an introduction; this process is called mihimihi. As part of an individual's mihi, they will give their pepeha. Pepeha is a form of introduction which establishes identity and heritage. This is an important process for Maori, as it allows us to identify connections with one another. There's a really special moment when someone hears another person whakapapa back to the same iwi, same awa...a little light comes on in their eyes, and you can almost hear the "a-ha". It's not necessarily the realisation that they could be looking at a distant relative - while that thought is certainly there, it's just as much about having a common history, a connection. Even if that person isn't some kind of cousin, their ancestors came from the same area, may have known each other, may have lived side-by-side. 
 

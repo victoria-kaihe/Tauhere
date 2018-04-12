@@ -3,7 +3,6 @@
 }
 
 .sidenav login {
-    .sidenav {
         height: 100%;
         width: 160px;
         position: fixed;
@@ -13,5 +12,4 @@
         background-color: #111;
         overflow-x: hidden;
         padding-top: 20px;
-    }
 }
